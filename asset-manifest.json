@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gg-react-app/static/css/main.f4c41839.css",
-    "main.js": "/gg-react-app/static/js/main.4d8e0432.js",
+    "main.css": "/gg-react-app/static/css/main.2b7572e2.css",
+    "main.js": "/gg-react-app/static/js/main.5747e67b.js",
     "index.html": "/gg-react-app/index.html",
-    "main.f4c41839.css.map": "/gg-react-app/static/css/main.f4c41839.css.map",
-    "main.4d8e0432.js.map": "/gg-react-app/static/js/main.4d8e0432.js.map"
+    "main.2b7572e2.css.map": "/gg-react-app/static/css/main.2b7572e2.css.map",
+    "main.5747e67b.js.map": "/gg-react-app/static/js/main.5747e67b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4c41839.css",
-    "static/js/main.4d8e0432.js"
+    "static/css/main.2b7572e2.css",
+    "static/js/main.5747e67b.js"
   ]
 }
